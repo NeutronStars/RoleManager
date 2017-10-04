@@ -1,0 +1,5 @@
+{
+  "main":"fr.neutronstars.rolemanager.plugin.RoleManagerPlugin",
+  "name":"Role Manager",
+  "version":"1.0.1"
+}
